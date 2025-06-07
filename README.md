@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Web Development**
-
+-  I’m looking to Job
 - 📫 How to reach me **ashokyadavrtp200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
