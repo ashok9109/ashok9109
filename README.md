@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok yadav</h1>
 <h3 align="center">--MERN STACK DEVELOPER--</h3>
 
+💫 About Me:
 🚀 Mern Stack Developer | Code. Create. Innovate.
 Hi, I'm Ashok Yadav — a passionate web developer focused on building responsive, high-performance web applications. I blend clean design with efficient code and love solving real-world problems through logic and structure.
 
