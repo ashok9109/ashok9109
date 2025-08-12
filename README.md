@@ -10,10 +10,6 @@ Hi, I'm Ashok Yadav — a passionate web developer focused on building responsiv
 💡 Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, MongoDb, Git, Java.
 - 📫 How to reach me **ashokyadavrtp200@gmail.com**
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok9109" alt="ashok9109" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashok_y_adav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashok_y_adav" height="30" width="40" /></a>
