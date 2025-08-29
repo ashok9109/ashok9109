@@ -7,7 +7,7 @@
 
 Hi, I'm Ashok Yadav — a passionate web developer focused on building responsive, high-performance web applications. I blend clean design with efficient code and love solving real-world problems through logic and structure.
 
-💡 Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, MongoDb, Git, Java.
+💡 Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js  MongoDb, Git, Java.
 - 📫 How to reach me **ashokyadavrtp200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
