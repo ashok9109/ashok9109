@@ -64,8 +64,8 @@ Hi, I'm Ashok Yadav — a passionate web developer focused on building responsiv
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashok9109&show_icons=true&locale=en&layout=compact" alt="ashok9109" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashok9109&show_icons=true&locale=en&layout=compact" alt="ashok9109" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok9109&show_icons=true&locale=en" alt="ashok9109" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok9109&" alt="ashok9109" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok9109&" alt="ashok9109" /></p> -->
