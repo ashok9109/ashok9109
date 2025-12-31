@@ -30,6 +30,20 @@ Hi, I'm Ashok Yadav — a passionate web developer focused on building responsiv
   </a>
 </div>
 
+## 🧑‍💻 Experience
+
+**Web Developer Intern – The Developers Arena**  
+*Nov 2025 – Dec 2025*  
+- Developing and enhancing a responsive personal portfolio using HTML, CSS, and JavaScript.  
+- Completing weekly frontend development tasks and improving UI/UX.
+
+**Web Developer Intern – Amdox Technologies**  
+*Sep 2025 – Nov 2025*  
+- Worked on full-stack development using React.js, Node.js, Express.js, and MongoDB.  
+- Contributed to real-world projects including **Work-On (Job Portal)** and **Validify (Certificate Verification System)**.  
+- Implemented REST APIs, authentication, and database integrations.
+
+
 ###
 
 <h2 align="left">⚡ Tech Stack</h2>
