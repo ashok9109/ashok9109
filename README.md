@@ -9,7 +9,7 @@ Hi, I'm Ashok Yadav — a passionate web developer focused on building responsiv
 
 💡 Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js  MongoDb, Git, Java.
 - 📫 How to reach me **ashokyadavrtp200@gmail.com**
-
+###
 
 <h2 align="left">🕸️ Connect with Me</h2>
 
@@ -30,7 +30,11 @@ Hi, I'm Ashok Yadav — a passionate web developer focused on building responsiv
   </a>
 </div>
 
+###
+
 ## 🧑‍💻 Experience
+
+###
 
 **Web Developer Intern – The Developers Arena**  
 *Nov 2025 – Dec 2025*  
@@ -39,9 +43,11 @@ Hi, I'm Ashok Yadav — a passionate web developer focused on building responsiv
 
 **Web Developer Intern – Amdox Technologies**  
 *Sep 2025 – Nov 2025*  
-- Worked on full-stack development using React.js, Node.js, Express.js, and MongoDB.  
-- Contributed to real-world projects including **Work-On (Job Portal)** and **Validify (Certificate Verification System)**.  
-- Implemented REST APIs, authentication, and database integrations.
+- Designed and developed two full-stack web applications:  
+  **Work-On (Job Portal)** and **Validify (Certificate Verification System)** using the MERN stack.  
+- Built complete backend systems with Node.js, Express.js, MongoDB, and JWT authentication.  
+- Developed responsive frontend interfaces using React.js and Tailwind CSS.  
+- Implemented RESTful APIs, role-based access control, and database integration.
 
 
 ###
